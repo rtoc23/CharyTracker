@@ -20,11 +20,3 @@ This program is technically intended for people who already have Chary spreadshe
         "Upgrade Points" = 8, "Consumable" = 9, "Tool" = 10, "Loadout Slot" = 11, "Legendary (H)" = 12
 
 2: The generated 'hunt_spreadsheet.txt' file must remain in the same directory as the exe.
-
-
-The order of the columns does not matter aside from the index. An example of a compatible CSV:
-
-        |REWARD INFORMATION	|COLOR	|CODE	|
-1	|500 XP			|1      |7	|
-2       |Bomblance              |2      |1	|
-3       |2 Upgrade Points       |1      |8	|
